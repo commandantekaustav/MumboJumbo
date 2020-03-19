@@ -29,7 +29,7 @@ except NameError:
     raw_input = input
 
 
-GITHUB_BASE_URL = 'https://github.com/commandantekaustav'
+GITHUB_BASE_URL = 'https://github.com/'
 FALLBACK_IMAGE = 'kitty'
 
 
